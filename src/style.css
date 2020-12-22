@@ -1,0 +1,11 @@
+h1, p {
+  font-family: Lato;
+}
+
+.myInfo {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 8px 16px;
+  margin-top: 16px;
+  box-shadow: 5px 5px 10px #1c1c1c;
+}
